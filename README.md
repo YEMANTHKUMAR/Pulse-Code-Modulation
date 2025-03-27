@@ -71,6 +71,10 @@ plt.show()
 
  ![image](https://github.com/user-attachments/assets/907c2a43-9605-4261-b40c-0d04e2b5fb8a)
 
+
+
+ 
+
  # Result
 
  The result is a set of plots that visualize the original analog message signal, the clock signal used
